@@ -13,7 +13,7 @@ setwd("C:/Users/yamsi/Documents/Friedman")
 desc_text <- "Package: Friedman
 Title: Tools for Visualizing and Evaluating Predictive Models
 Version: 0.0.0.9000
-Authors@R: person('Yesenia', 'Reinoso', email = 'yesenia.reinoso@example.com', role = c('aut','cre'))
+Authors@R: person('Yesenia', 'Reinoso', role = c('aut','cre'))
 Description: The Friedman package provides functions to visualize, evaluate, and compare predictive models using ggplot2 and dplyr.
 Depends: R (>= 3.1.2)
 Imports: ggplot2, dplyr, tidyr
